@@ -121,7 +121,7 @@ export const projects = [
     des: "An AI-based interview platform that helps candidates prepare for technical interviews using Next.js and Tailwind CSS.",
     img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/sentry.svg"],
-    link: "/ui.yoom.com",
+    link: "In Progress",
   },
   {
     id: 3,

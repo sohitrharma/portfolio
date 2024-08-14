@@ -65,7 +65,7 @@ export const BentoGridItem = ({
     "React",
     "Node.js",
     "AWS",
-    "SQl",
+    "SQL",
     "NoSQL",
     "GraphQL",
     "RESTful APIs",
