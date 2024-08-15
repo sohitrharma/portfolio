@@ -33,11 +33,11 @@ const Hero = () => {
       <div className="flex justify-center relative z-10 my-20">
         <div className="max-w-[89vw] md:max-w-2xl lg:max-w-[60vw] flex flex-col items-center justify-center">
           <p className="uppercase tracking-widest text-xs text-center text-blue-100 max-w-90 mb-2">
-            Crafting Innovative Software Solutions
+            Transforming Ideas into Reality
           </p>
 
           <TextGenerateEffect
-            words="Building Efficient Digital Systems"
+            words="Building Scalable, Efficient, and Innovative Software Solutions"
             className="text-center text-[40px] md:text-5xl lg:text-6xl mb-4"
           />
 

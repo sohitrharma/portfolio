@@ -14,7 +14,7 @@ const Approach = () => {
         <Card
           title="Planning & Strategy"
           icon={<AceternityIcon order="Phase 1" />}
-          des="I begin with gathering and analyzing requirements, creating detailed specifications, and designing the system architecture. This phase includes creating user stories, defining acceptance criteria, and producing initial design documents and prototypes."
+          des="I kick-start projects by gathering requirements, analyzing needs, and defining project scope. This phase involves creating user stories, acceptance criteria, and initial design documents to ensure a solid foundation for the project."
         >
           <CanvasRevealEffect
             animationSpeed={5.1}
@@ -24,7 +24,7 @@ const Approach = () => {
         <Card
           title="Development & Updates"
           icon={<AceternityIcon order="Phase 2" />}
-          des="Following agile methodologies, I implement features in iterative sprints, conducting unit testing and code reviews. I maintain continuous integration practices, ensuring code quality and adhering to coding standards throughout the development process."
+          des="Using agile methodologies, I develop and refine features through iterative sprints, incorporating unit testing, code reviews, and continuous integration. This ensures high-quality code, adherence to coding standards, and rapid adaptation to changing requirements."
         >
           <CanvasRevealEffect
             animationSpeed={3}
@@ -39,7 +39,7 @@ const Approach = () => {
         <Card
           title="Implementation & Launch"
           icon={<AceternityIcon order="Phase 3" />}
-          des="This phase involves staging the application, conducting thorough system and user acceptance testing, and preparing for deployment. Post-launch, I focus on monitoring performance, addressing bugs, and implementing updates based on user feedback and changing requirements."
+          des="In this final phase, I stage the application, conduct thorough testing, and prepare for deployment. Post-launch, I focus on monitoring performance, addressing bugs, and implementing updates based on user feedback and evolving requirements."
         >
           <CanvasRevealEffect
             animationSpeed={3}

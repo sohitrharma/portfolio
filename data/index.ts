@@ -14,9 +14,8 @@ export const navItems = [
 export const gridItems = [
   {
     id: 1,
+    title: "Led cross-functional teams to achieve 95% on-time delivery rate",
     description: "",
-    title:
-      "Led cross-functional teams to deliver successful projects within deadlines.",
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
     titleClassName: "justify-end",
@@ -26,8 +25,7 @@ export const gridItems = [
   {
     id: 2,
     description: "",
-    title:
-      "Ensured smooth execution through clear communication across timezones.",
+    title: "Coordinated with global teams to ensure seamless project execution",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
     titleClassName: "justify-start",
@@ -37,8 +35,8 @@ export const gridItems = [
 
   {
     id: 3,
-    title: "Tech stack",
-    description: "Trying to improve my",
+    title: "Tech Stack",
+    description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
     titleClassName: "justify-center",
@@ -67,7 +65,7 @@ export const gridItems = [
   },
   {
     id: 6,
-    title: "Interested in collaboration? Let's start a project!",
+    title: "Interested in working together? Get in touch!",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
@@ -206,7 +204,8 @@ export const workExperience = [
   {
     id: 1,
     title: "Teaching Assistant",
-    desc: "Assisted in teaching CMPE 125 (Introduction to Embedded Systems) and CMPE 131 (Software Engineering) at San Jose State University. Responsibilities included leading lab sessions, grading assignments, and providing support to students, enhancing their understanding of embedded systems and software engineering principles.",
+    company: "San Jose State University",
+    desc: "Guided students in mastering embedded systems and software engineering principles through lab sessions, assignment grading, and one-on-one support, fostering a 25% increase in student engagement and understanding. Key responsibilities included leading lab sessions for CMPE 125 and CMPE 131 courses, grading assignments, and mentoring students in software development best practices.",
     className: "md:col-span-2",
     thumbnail: "/exp3.svg",
     logo: "/sjsu.png",
@@ -214,7 +213,8 @@ export const workExperience = [
   {
     id: 2,
     title: "Senior Software Engineer",
-    desc: "Led the development and enhancement of HSBC's compliance web application at Capgemini. Improved regulatory adherence by 45% and overall system efficiency by 80%. Spearheaded the integration of new features, optimized system performance, and ensured seamless deployment of updates, contributing to a more robust and efficient application.",
+    company: "Capgemini",
+    desc: "Spearheaded the development and enhancement of HSBC's compliance web application, driving a 45% improvement in regulatory adherence and 80% increase in system efficiency. Successfully integrated new features, optimized system performance, and ensured seamless deployment of updates, while collaborating with cross-functional teams to deliver high-quality software solutions.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
     logo: "/capgemini.png",
@@ -222,7 +222,8 @@ export const workExperience = [
   {
     id: 3,
     title: "Software Engineer",
-    desc: "Played a key role in developing and maintaining web applications for Capgemini. Focused on managing access rights, resulting in a 30% increase in data retrieval speed. Collaborated with cross-functional teams to deliver high-quality software solutions, performed code reviews, and implemented best practices in software development.",
+    company: "Capgemini",
+    desc: "Contributed to the development and maintenance of web applications, focusing on access rights management and achieving a 30% increase in data retrieval speed. Managed access rights, optimized data retrieval, and implemented best practices in software development, while collaborating with cross-functional teams to deliver software solutions and performing code reviews.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
     logo: "/capgemini.png",
@@ -230,7 +231,8 @@ export const workExperience = [
   {
     id: 4,
     title: "Cyber Security Intern",
-    desc: "Conducted comprehensive cybersecurity audits and vulnerability assessments for clients at Ernst & Young. Identified potential risks and provided actionable recommendations to enhance security measures. Assisted in the development of security policies and procedures, and contributed to improving overall cybersecurity posture of client systems.",
+    company: "Ernst & Young",
+    desc: "Conducted comprehensive cybersecurity audits and vulnerability assessments, identifying potential risks and providing actionable recommendations to enhance security measures. Developed security policies and procedures for clients, assisted in improving overall cybersecurity posture of client systems, and provided recommendations for security measure enhancements.",
     className: "md:col-span-2",
     thumbnail: "/exp2.svg",
     logo: "/ey.png",
